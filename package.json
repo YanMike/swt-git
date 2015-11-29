@@ -1,0 +1,28 @@
+{
+  "name": "project_for_swt.dvcs",
+  "version": "0.1.0",
+  "description": "It's just demo content",
+  "author": "Yannick Bachteler <yannick@bachteler.me>",
+  "dependencies": {
+    "gulp": "~3.9.0"
+  },
+  "directories": {
+    "img": "/img",
+    "less": "/less",
+    "html": "/content"
+  },
+  "devDependencies": {
+    "del": "^2.1.0",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-inject": "^3.0.0",
+    "gulp-install": "~0.6.0",
+    "gulp-less": "~3.0.5",
+    "gulp-minify": "0.0.5",
+    "gulp-minify-css": "^1.2.1",
+    "gulp-rename": "^1.2.2",
+    "merge-stream": "^1.0.0",
+    "run-sequence": "^1.1.5",
+    "stream-series": "^0.1.1"
+  }
+}

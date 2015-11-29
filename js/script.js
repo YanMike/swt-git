@@ -1,3 +1,3 @@
 $(function() {
-	alert('alerts are bad, but tolerated for development purposes');
+	// Todo: implement a function that makes this file useful ... 
 });
